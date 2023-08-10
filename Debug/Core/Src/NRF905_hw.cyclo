@@ -1,0 +1,6 @@
+NRF905_hw.c:14:5:NRF905_hw_gpio_get	4
+NRF905_hw.c:31:5:NRF905_hw_gpio_set	4
+NRF905_hw.c:48:6:NRF905_hw_delay_ms	1
+NRF905_hw.c:52:6:NRF905_hw_delay_us	5
+NRF905_hw.c:73:6:NRF905_hw_enable_timer	2
+NRF905_hw.c:80:5:NRF905_hw_spi_transfer	3
